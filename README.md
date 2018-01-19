@@ -19,3 +19,7 @@ To add it to the docker-compose file:
       SERVICE_NAME: whole-cell-segmentation--v1_0_0
       SERVICE_TAGS: analytic
  ```
+ 
+ The file __rt106-wavelet-nuclei-segmentation.tar.gz__ comes from the build process
+ of the [Wavelet Nuclei Segmentation](https://github.com/rt106/rt106-wavelet-nuclei-segmentation)
+ sample algorithm from rt106.
